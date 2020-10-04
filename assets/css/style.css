@@ -20,12 +20,9 @@ body{
     line-height: 1.5;
 }
 
-h1 {}
-
 h2 {
     font-size: 45px;
 }
-h3 {}
 
 p {
     margin: 0
@@ -150,6 +147,10 @@ flex: 0 0 70%;
 .page-section p {
     margin-bottom: 20px;
     font-size: 18px;
+}
+
+.page-section img {
+    width: 15%;
 }
 
 .grid-container {
