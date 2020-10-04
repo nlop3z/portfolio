@@ -17,6 +17,6 @@ https://nlop3z.github.io/portfolio/
 https://github.com/nlop3z/portfolio
 
 
-# Screenshot of website can be found below:
+## Screenshot of website can be found below:
 
 ![This is a screenshot of Nelly Lopez's portfolio site](/assets/images/portfolio.PNG)
