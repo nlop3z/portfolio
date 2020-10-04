@@ -8,3 +8,7 @@ A website that displays my work and contact information.
 * CSS
 
 ## Website
+
+
+Inline-style: 
+![alt text]( "Logo Title Text 1")
