@@ -243,7 +243,7 @@ flex: 0 0 70%;
     nav { padding-bottom: 5px; }
     .image-flex p { padding: 11px;}
     .image-flex img { margin: 0px; }
-    h2 { font-size: 41px; }
+    h2 { font-size: 32px; }
 }
 /* this will be applied on any screen smaller than 768px */
 
@@ -254,7 +254,7 @@ flex: 0 0 70%;
     span { border-bottom: 2px solid;
         padding-bottom: 0; } 
     nav { padding-bottom: 3px;}
-    h2 { font-size: 29px; }
+    h2 { font-size: 28px; }
 }
 /* this will be applied on any screen smaller than 575px */
 
@@ -273,6 +273,6 @@ flex: 0 0 70%;
     span { border-bottom: 2px solid;
     padding-bottom: 0; }
     nav { padding-bottom: 5px; }
-    h2 { font-size: 20px; }
+    h2 { font-size: 14px; }
 }
 /*end media queries*/
